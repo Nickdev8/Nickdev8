@@ -10,7 +10,8 @@ I'm Nick, a game dev and pixel artist from the Netherlands (CET timezone). I lov
 - ⚡ Fun fact: I started programming when I was 9!
 
 ### Cool Pixel Art Animation
-![My Pixel Art Animation](playerCharacter3.gif)
+![My Pixel Art Animation 1](zeusplayeranim.gif)
+![My Pixel Art Animation 2](playerCharacter3.gif)
 
 ### Short Clip from a Game I Made
 ![Game Clip](msclip5.gif)
