@@ -13,4 +13,4 @@ I'm Nick, a game dev and pixel artist from the Netherlands (CET timezone). I lov
 ![My Pixel Art Animation](playerCharacter3.gif)
 
 ### Short Clip from a Game I Made
-![Game Clip](msclip.gif)
+![Game Clip](msclip5.gif)
