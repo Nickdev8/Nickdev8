@@ -15,3 +15,10 @@ I'm Nick, a game dev and pixel artist from the Netherlands (CET timezone). I lov
 
 ### Short Clip from a Game I Made
 ![Game Clip](msclip5.gif)
+
+### I have worked with [LDTK](https://ldtk.io) and making autotiles
+![ldtk project](ldtk.webp)
+
+### I made Tilesets with Normal mapsautotiles
+![Normalmap](normal.webp)
+![Tilessets](tile.webp)
