@@ -17,8 +17,8 @@ I'm Nick, a game dev and pixel artist from the Netherlands (CET timezone). I lov
 ![Game Clip](msclip5.gif)
 
 ### I have worked with [LDTK](https://ldtk.io) and making autotiles
-![ldtk project](ldtk.webp)
+<img src="ldtk.webp" alt="ldtk project" width="200"/>
 
 ### I made Tilesets with Normal mapsautotiles
-![Normalmap](normal.webp)
-![Tilessets](tile.webp)
+<img src="normal.webp" alt="Normalmap" width="200"/>
+<img src="tile.webp" alt="Tilessets" width="200"/>
