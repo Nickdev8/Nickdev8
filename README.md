@@ -3,14 +3,13 @@ I'm Nick, a game dev and pixel artist from the Netherlands (CET timezone). I lov
 
 
 - 🎮 Check out my games on [itch.io](https://nikkcc.itch.io)
-- 🎨 I create pixel art and design for my projects
-- 💻 Currently learning: C#, HTML/CSS, JavaScript, AND UNITY!!
+- 🎨 I create my own pixel art and designs for my projects
+- 💻 Currently learning: C#, JavaScript, AND UNITY!!
 - 🕹️ Open to collaborating on Game Jams
 - 📫 Reach me: Nick.esselman@gmail.com
 - ⏳ Fun fact: I started programming when I was 9! (so 7 years now)
 
 ### Pixel Art Animation:
-Made for the [Brackeys gamejam](https://itch.io/jam/brackeys-12)
 <p float="left">
   <img src="zeusplayeranim.gif" alt="My Pixel Art Animation 1" width="auto" height="100%"/>
   <img src="playerCharacter3.gif" alt="My Pixel Art Animation 2" width="auto" height="100%"/>
