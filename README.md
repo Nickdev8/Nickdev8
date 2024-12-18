@@ -1,3 +1,4 @@
+[![Nickdev8's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nickdev8)](https://github.com/anuraghazra/github-readme-stats)
 ## Hello! 👋
 I'm Nick, a game dev and pixel artist from the Netherlands (CET timezone). I love making retro-inspired games and art!
 
