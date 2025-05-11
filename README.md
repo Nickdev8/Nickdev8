@@ -77,9 +77,7 @@ alt="Visual Studio Code" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"
 alt="Visual Studio" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg"
-alt="JetBrains IDEs" width="45" height="45"/>
-
-<!-- Programming Languages -->
+alt="JetBrains IDEs" width="45" height="45"/><!-- Programming Languages -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" 
 alt="Python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
@@ -93,9 +91,7 @@ alt="PHP" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 alt="Java" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"
-alt="Lua" width="45" height="45"/>
-
-<!-- Web Development -->
+alt="Lua" width="45" height="45"/><!-- Web Development -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
 alt="HTML5" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" 
@@ -105,9 +101,7 @@ alt="MySQL" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
 alt="Node.js" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"
-alt="NPM" width="45" height="45"/>
-
-<!-- DevOps and Tools -->
+alt="NPM" width="45" height="45"/><!-- DevOps and Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
 alt="Docker" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
@@ -117,13 +111,11 @@ alt="Bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
 alt="Linux" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" 
-alt="Arch Linux" width="45" height="45"/>
-
-<!-- Design and UI/UX -->
+alt="Arch Linux" width="45" height="45"/><!-- Design and UI/UX -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" 
 alt="Figma" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" 
-alt="Blender" width="45" height="45"/> <!-- Game Development -->
+alt="Blender" width="45" height="45"/><!-- Game Development -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"
 alt="Unity" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg"
@@ -131,9 +123,7 @@ alt="Unreal Engine" width="45" height="45"/><!-- Hardware and IoT -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
 alt="Arduino" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg"
-alt="raspberrypi" width="45" height="45" />
-
-<!-- Browsers -->
+alt="raspberrypi" width="45" height="45" /><!-- Browsers -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-plain.svg" 
 alt="Google Chrome" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg"
@@ -141,9 +131,7 @@ alt="Mozilla Firefox" width="45" height="45"/><!-- Operating Systems -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"
 alt="Ubuntu" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
-alt="Windows 11" width="45" height="45"/>
-
-<!-- Miscellaneous -->
+alt="Windows 11" width="45" height="45"/><!-- Miscellaneous -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg"
 alt="Devicon" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ifttt/ifttt-original.svg"
