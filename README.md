@@ -58,16 +58,6 @@ hobbies: ["Gaming", "Canoeing", "Art", "Programming", "3d printing"]
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-
-<!-- IDEs -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code"
-    width="45" height="45" class="PLIK" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"
-    alt="Visual Studio" width="45" height="45" class="PLIK" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg"
-    alt="JetBrains IDEs" width="45" height="45" class="PLIK" /><!-- Programming Languages -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"
-    alt="Python" width="45" height="45" class="PLIK" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"
     class="PLIK" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45"
@@ -78,6 +68,8 @@ hobbies: ["Gaming", "Canoeing", "Art", "Programming", "3d printing"]
     class="PLIK" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45"
     height="45" class="PLIK" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"
+    alt="Python" width="45" height="45" class="PLIK" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" width="45"
     height="45" class="PLIK" /><!-- Web Development -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="45" height="45"
@@ -134,12 +126,6 @@ hobbies: ["Gaming", "Canoeing", "Art", "Programming", "3d printing"]
     width="45" height="45" class="PLIKI " />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" alt="Devicon"
     width="45" height="45" class="PLIKI " />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg"
-    alt="Windows 11" width="45" height="45" class="PLIKI " />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-plain.svg" alt="Google Chrome"
-    width="45" height="45" class="PLIKI " />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" alt="Mozilla Firefox"
-    width="45" height="45" class="PLIKI " />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg"
     alt="Unreal Engine" width="45" height="45" class="PLIKI " />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width="45" height="45"
@@ -157,6 +143,10 @@ hobbies: ["Gaming", "Canoeing", "Art", "Programming", "3d printing"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" alt="JSON" width="45"
     height="45" class="PLIK" />
 </p>
+
+![Hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=1160&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+)
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
