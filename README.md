@@ -48,8 +48,10 @@ hobbies:
 
 | Project     | Description                                              | Duration              | 🔗 Details                                              |
 | ----------- | -------------------------------------------------------- | --------------------- | ------------------------------------------------------- |
-| **JUICE**   | 6-week immersive housing program in San Francisco        | Jun 16 – Aug 30, 2025 | [Learn More](https://blog.nickesselman.nl/neighborhood) |
-| **Juice**   | 100+ hrs game jam + a trip to Shanghai for the hackathon | Apr 4 – Apr 13, 2025  | [Learn More](https://nickesselman.nl/?project=juice)    |
+| **Neighberhood** | 3 months hackershouse in San Francisco with 12 programmers | Jun 16 – Aug 30, 2025 | [Learn More](https://blog.nickesselman.nl/neighborhood) |
+| **Shipwrecked** | 5 days hackathon on a private island                 | Aug 8 – Aug 11, 2025 | [Learn More](https://blog.nickesselman.nl/shipwrecked) |
+| **Undercity/Highway** | 5 days hackathon in Github HQ                  | July 11 – July 14, 2025 | [Learn More](https://blog.nickesselman.nl/undercity) |
+| **Juice**   | 100+ hrs game jam and a trip to Shanghai for a hackathon | Apr 4 – Apr 13, 2025  | [Learn More](https://nickesselman.nl/?project=juice)    |
 | **HackPad** | Design and order your custom microcontroller PCB         | Feb – Mar, 2025       | [Learn More](https://nickesselman.nl/?project=hackpad)  |
 
 ---
