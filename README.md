@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome+aboard!&height=100&section=header" />
 </p>
 
-<h1 align="center">👋 Hi, I’m Nick Esselman</h1>
+<h1 align="center">Hi, I’m Nick Esselman</h1>
 <p align="center">
   <em>Full Stack Developer based in Spaarndam, The Netherlands</em>
 </p>
@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```yaml
 name: Nick Esselman
@@ -44,7 +44,7 @@ hobbies:
 
 ---
 
-## 🎯 HackClub Adventures
+## HackClub Adventures
 
 | Project     | Description                                              | Duration              | 🔗 Details                                              |
 | ----------- | -------------------------------------------------------- | --------------------- | ------------------------------------------------------- |
@@ -56,7 +56,7 @@ hobbies:
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 <p align="center">
   <!-- Programming Languages -->
@@ -81,7 +81,7 @@ hobbies:
 
 ---
 
-## 📊 Activity Stats
+## Activity Stats
 
 ![Hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=1160\&api_domain=hackatime.hackclub.com\&theme=darcula\&custom_title=Hackatime+Stats\&layout=compact\&cache_seconds=0\&langs_count=8)
 
