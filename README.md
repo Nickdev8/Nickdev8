@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome+aboard&height=120&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8b0000&text=Nick+Esselman&height=120&section=header&fontColor=ffffff&fontSize=50" />
 </p>
-
-<h1 align="center">Nick Esselman</h1>
 
 <p align="center">
 Developer and builder based in the Netherlands.  
